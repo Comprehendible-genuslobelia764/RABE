@@ -67,7 +67,7 @@ class FABECPABE(ABEnc):
         h_r = pk['h'] ** r
 
         return {'attr_list': attr_list, 'h_r': h_r, 'sk1': sk1, 'sk2': sk2}
-
+1
     def encrypt(self, pk, msg, policy_str):
         """加密消息"""
         if debug:
